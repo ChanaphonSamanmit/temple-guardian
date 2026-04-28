@@ -1,0 +1,26 @@
+{
+  "game": "TEMPLE GUARDIAN",
+  "tagline": "ปกป้องวัดไทยจากผีร้าย ด้วยพลังยักษ์",
+  "genre": "Tower Defense + Action",
+  "platform": "Android (API 24+)",
+  "engine": "Godot 4.4",
+  "language": "GDScript",
+  "session_length": "2-5 minutes",
+  "mechanics": [
+    "Tap to summon Yaksha guardians on lanes",
+    "Enemies walk from right to left toward the temple",
+    "Mana regenerates over time for summoning",
+    "Different Yaksha types: melee, ranged, tank",
+    "Upgrade guardians by merging same type",
+    "Boss appears every 10 waves",
+    "Game over when temple HP reaches 0"
+  ],
+  "screens": ["Title", "Gameplay", "Pause", "Game Over", "Leaderboard"],
+  "assets_count": {
+    "sprites": 12,
+    "tiles": 8,
+    "backgrounds": 3,
+    "ui": 6,
+    "audio": 5
+  }
+}
